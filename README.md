@@ -1,7 +1,7 @@
 # zoomautomation
 
 Bu Botun amacı Ders Saatiniz Gelince Derse Otomatikmen girmenizi sağlamaktır.
-Bu sayede derlerinizi aklınızda tutmanıza gerek kalmaz ayrıca hiçbir dersi kaçırmazsınız.
+Bu sayede derslerinizi aklınızda tutmanıza gerek kalmaz ayrıca hiçbir dersi kaçırmazsınız.
 Ve isteseniz uygulamayı Toplantılarınıza görede düzenliyebilirsiniz.
 Tamamen Güvenlidir.
 (Eğer her seferinde botu tekrardan çalıştırmak istemezseniz sisteminize entegre edin)
