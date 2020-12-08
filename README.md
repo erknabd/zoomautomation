@@ -2,7 +2,7 @@
 
 Bu Botun amacı Ders Saatiniz Gelince Derse Otomatikmen girmenizi sağlamaktır.
 Bu sayede derslerinizi aklınızda tutmanıza gerek kalmaz ayrıca hiçbir dersi kaçırmazsınız.
-Ve isteseniz uygulamayı Toplantılarınıza görede düzenliyebilirsiniz.
+Ve isteseniz botu Toplantılarınıza görede düzenliyebilirsiniz.
 Tamamen Güvenlidir.
 (Eğer her seferinde botu tekrardan çalıştırmak istemezseniz sisteminize entegre edin)
 
