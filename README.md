@@ -9,6 +9,6 @@ Eğer sisteminize entegre ederseniz herseferinde çalıştırmanıza gerek kalma
 
 You can contact me here:
 
-[Discord Channel](https://discord.gg/Wh9XfNrd)
+[Discord Channel](https://discord.gg/BQYJxfQMeR)
 
 [Twitter](https://twitter.com/erknabd)
