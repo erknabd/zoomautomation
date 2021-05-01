@@ -8,5 +8,7 @@ Bu otomasyonun amacı verdiğiniz bilgiler dahilinde derslerinizi (otomatik olar
 Eğer sisteminize entegre ederseniz herseferinde çalıştırmanıza gerek kalmadan işlerinizi yapar.
 
 You can contact me here:
+
 [Discord Channel](https://discord.gg/Wh9XfNrd)
+
 [Twitter](https://twitter.com/erknabd)
