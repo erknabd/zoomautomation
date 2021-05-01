@@ -48,6 +48,7 @@ def open_lesson():
         time.sleep(8)
         browser.close()  
 
+# Customize "lesnameX" according to your lesson time table
 while True:
     an = datetime.datetime.now()
     hour = datetime.datetime.strftime(an, '%X')
