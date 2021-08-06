@@ -6,9 +6,3 @@ For Turkish
 
 Bu otomasyonun amacı verdiğiniz bilgiler dahilinde derslerinizi (otomatik olarak) açmanızı sağlamaktır.
 Eğer sisteminize entegre ederseniz herseferinde çalıştırmanıza gerek kalmadan işlerinizi yapar.
-
-You can contact me here:
-
-[Discord Channel](https://discord.io/soft-sec)
-
-[Twitter](https://twitter.com/erknabd)
